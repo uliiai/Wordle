@@ -8,3 +8,9 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/uliiai/Wordle.git
+2. Перейдите в папку проекта:
+   ```bash
+   cd Wordle
+3.Запустите игру (зависит от вашего кода):
+   ```bash
+   python main.py
